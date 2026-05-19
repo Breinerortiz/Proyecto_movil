@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068838387571",
+    "project_id": "movil-d4dde",
+    "storage_bucket": "movil-d4dde.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068838387571:android:d0daeb76ce81f61861cf06",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_final_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1uYcUjLhrvESUaD_egFkxdShCeuiqjYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
